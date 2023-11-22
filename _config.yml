@@ -1,8 +1,21 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Web Analytics Tutorial
+description: SER421 - Advanced Project
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+enable_copy_code_button: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+callouts:
+  note:
+    color: yellow
+  highlight:
+    color: green
+  warning:
+    color: red
+
+mermaid:
+  version: "10.6.1"
