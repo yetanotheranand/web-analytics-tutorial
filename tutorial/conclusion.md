@@ -16,10 +16,10 @@ In our opinion, web analytics is an indispensable tool for businesses navigating
 
 ----
 
-[^1]: [Watchfinder Clocks 1,300% Roi Using Precision Remarketing with Google Analytics.](www.thinkwithgoogle.com/marketing-strategies/search/watchfinder-increases-roi-by-remarketing-with-google-analytics/).
+[^1]: [Watchfinder Clocks 1,300% Roi Using Precision Remarketing with Google Analytics.](https://www.thinkwithgoogle.com/marketing-strategies/search/watchfinder-increases-roi-by-remarketing-with-google-analytics/).
 
-[^2]: [Westwing Uses Universal Analytics to Better Understand Customers’ Purchase Path.](www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/westwing-uses-universal-analytics-to-better-understand-customer-purchase-path/).
+[^2]: [Westwing Uses Universal Analytics to Better Understand Customers’ Purchase Path.](https://www.thinkwithgoogle.com/marketing-strategies/data-and-measurement/westwing-uses-universal-analytics-to-better-understand-customer-purchase-path/).
 
-[^3]: [10 Case Studies Show How Web Analytics Prove Roi](www.biznology.com/2015/09/10-case-studies-show-web-analytics-prove-roi/).
+[^3]: [10 Case Studies Show How Web Analytics Prove Roi](https://www.biznology.com/2015/09/10-case-studies-show-web-analytics-prove-roi/).
 
 [^4]: [Gaining Advantages using Web Analytics: A case study on Ryanair](https://www.ijedr.org/papers/IJEDR1502200.pdf).

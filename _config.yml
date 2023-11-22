@@ -19,3 +19,6 @@ callouts:
 
 mermaid:
   version: "10.6.1"
+
+ga_tracking: G-WK7V28V6RS
+ga_tracking_anonymize_ip: true

@@ -5,6 +5,7 @@ nav_order: 0
 ---
 
 # Web Analytics Tutorial
+{: .no_toc }
 
 ## Description
 
