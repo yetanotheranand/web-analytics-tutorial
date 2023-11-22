@@ -52,11 +52,35 @@ The basic steps involved in the integration are as below. In case of more detail
 
 Step 1: Sign in to Google Analytics and set up a Google Analytics 4 property.
 
+![](../assets/ga/1.png)
+
+![](../assets/ga/2.png)
+
+![](../assets/ga/3.png)
+
+![](../assets/ga/4.png)
+
+![](../assets/ga/5.png)
+
+![](../assets/ga/6.png)
+
 Step 2: Locate the GA4 Measurement ID in the Data Streams.
+
+![](../assets/ga/7.png)
 
 Step 3: Copy the provided script into the `head` section of all the pages on the website
 
+![](../assets/ga/8.png)
+
 Step 4: Run test worflows on the website and then verify the data collection on the GUI Dashboard.
+
+![](../assets/ga/9.png)
+
+### Debugging GA4 Integration
+
+Use [Tag Assitant](https://tagassistant.google.com) service to debug the implementation.
+
+For detailed instructions, please refer the [help docs](https://support.google.com/tagassistant/answer/10039345).
 
 ---
 
